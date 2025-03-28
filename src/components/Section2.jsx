@@ -30,7 +30,7 @@ const Section2 = () => {
 
   return (
     <section className="container w-full mx-auto px-3 py-20  flex flex-col font-[kara]">
-      <div className="bg-violet-400 h-[1.5px] w-[150px] lg:w-[180px] mx-auto lg:ml-0"></div>
+      <div className="bg-gray-500 h-[0.5px] w-[150px] lg:w-[180px] mx-auto lg:ml-0"></div>
 
       <h1 className="py-10 text-center lg:text-start text-5xl lg:text-7xl font-semibold">
         We're different
