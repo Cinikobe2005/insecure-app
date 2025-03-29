@@ -49,7 +49,7 @@ const HeroSection = () => {
          <div className = 'block md:hidden w-[100%]'>
                <img src= {imagemobile} alt="" className = 'w-full h-auto'/>
          </div>
-   
+  
     </section>
     </>
   )
