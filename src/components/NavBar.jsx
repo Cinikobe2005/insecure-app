@@ -8,7 +8,7 @@ const NavBar = () => {
   const [offCanvasOpen, setOffCanvasOpen] = useState(false);
   return (
     <>
-      <nav className="container  mx-auto p-4 flex font-family-karla uppercase justify-between items-center font-[700] text-sm">
+      <nav className="container  mx-auto p-6 flex font-family-karla uppercase justify-between items-center font-[700] text-sm">
         <img src={logo} alt="" className="cursor-pointer" />
         <ul className="space-x-4 items-center hidden md:flex">
           <li className="cursor-pointer hover:text-[#2B272F] text-[#837D87]">
